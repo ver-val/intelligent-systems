@@ -11,4 +11,5 @@ Repository for intelligent systems lab work.
 
 - `lab-01/`
 - `lab-02/`
+- `lab-03-04/`
 
