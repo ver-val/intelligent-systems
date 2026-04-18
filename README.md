@@ -10,4 +10,5 @@ Repository for intelligent systems lab work.
 ## Current contents
 
 - `lab-01/`
+- `lab-02/`
 
