@@ -1,0 +1,5 @@
+NA values in height and/or weight: 1
+Males: 40
+Females: 60
+Mean BMI males: 26.95
+Mean BMI females: 28.02
