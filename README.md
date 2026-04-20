@@ -14,4 +14,6 @@ Repository for intelligent systems lab work.
 - `lab-03-04/`
 - `lab-05-06/`
 - `individual-assignment`
+- `data`
+- `lab-07/`
 
